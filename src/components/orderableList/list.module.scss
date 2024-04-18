@@ -1,0 +1,15 @@
+.listContainer {
+  display: flex;
+  gap: 16px;
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: 8px;
+  position: relative;
+}
+
+.placeholder {
+  position: absolute;
+  background-color: white;
+  border-radius: 2px;
+  border: dashed 1px #8f8f8f;
+}

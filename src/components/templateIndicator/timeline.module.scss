@@ -1,0 +1,13 @@
+.timelineContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #efefef;
+  padding: 16px;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 16px;
+}
